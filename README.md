@@ -101,6 +101,33 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakaranVijay&layout=compact&theme=tokyonight)
 
 
+<!-- ===================== Footer ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=100&section=footer" width="100%" />
+</p>
+
+<!-- <img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:C77DFF&height=100&section=footer&width=2000" 
+  width="100%" 
+/> -->
+
+<!-- GIFs row -->
+<p align="center">
+  <img src="./assets/bike.gif" width="180" align="left"/>
+  <img src="./assets/cat.gif" width="180" align="right"/>
+</p>
+
+<br><br>
+
+<!-- Text BELOW GIFs -->
+<p align="center">
+  <i>Code • Ride • Repeat</i> 🖤
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
 <!-- 
 
 
