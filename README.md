@@ -39,7 +39,6 @@
 - 🎓 **B.Tech CSE (AI/ML)** student  
 - 🤖 Interested in **AI Engineering, Machine Learning & MLOps**  
 - 🌐 Exploring **Full-Stack Web Development**  
-- 🚀 Founder of **NOVA-AI**  
 - 🧠 Love building things from **idea → product**  
 - 🐱 Cat lover | 🏞️ Hiking | 🌙 Late-night coding  
 
