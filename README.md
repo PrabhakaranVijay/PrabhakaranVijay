@@ -56,16 +56,17 @@ I'm currently exploring **Full-Stack Web Development** and enjoy building produc
 💬 *Ask me about*:  
 `AI / ML` · `MLOps` · `Python` · `Web Development`
 
+<br/>
 
 <!-- ===================== Languages and Tools ===================== -->
 <h2 align="left">⚙️ Languages and Tools</h2>
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
-### 🤖 AI / ML
+### AI / ML
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
@@ -73,14 +74,14 @@ I'm currently exploring **Full-Stack Web Development** and enjoy building produc
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-F48020?logo=huggingface&logoColor=white)
 
-### ⚙️ MLOps / DevOps
+### MLOps / DevOps
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 
-### 🌐 Web Development
+### Web Development
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
