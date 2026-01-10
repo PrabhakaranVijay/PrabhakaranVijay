@@ -58,41 +58,37 @@ I'm currently exploring **Full-Stack Web Development** and enjoy building produc
 
 
 <!-- ===================== Languages and Tools ===================== -->
-<h2 align="left">⚙️ Languages and Tools:</h2>
-<div style="display: flex; overflow-x: auto; padding: 10px 0;">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://mlflow.org/" target="_blank"><img src="https://mlflow.org/docs/latest/_static/mlflow-logo.png" alt="mlflow" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.kaggle.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Kaggle_logo.png" alt="kaggle" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Hugging_Face_logo.svg" alt="huggingface" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" alt="openai" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="margin-right:15px;" /></a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40" style="margin-right:15px;" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40" style="margin-right:15px;" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40" style="margin-right:15px;" />
-  </a>
-</div>
+<h2 align="left">⚙️ Languages and Tools</h2>
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+
+### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-F48020?logo=huggingface&logoColor=white)
+
+### ⚙️ MLOps / DevOps
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7E01D?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 <!--
-
 
 <h3 align="left">📊 GitHub Stats</h3>
 
@@ -104,6 +100,13 @@ I'm currently exploring **Full-Stack Web Development** and enjoy building produc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaran-vijay&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PrabhakaranVijay&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PrabhakaranVijay&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakaranVijay&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 <h3 align="left">📊 GitHub Stats</h3>
@@ -160,7 +163,11 @@ I'm currently exploring **Full-Stack Web Development** and enjoy building produc
   ⭐ Thanks for visiting my profile!
 </p>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 
+
+
+
 
 
 🔭 B.tech Computer Science student<br>💬 Fascinated to learn new things<br>🐱 Love cats and hiking
