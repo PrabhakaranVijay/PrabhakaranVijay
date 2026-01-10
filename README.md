@@ -36,18 +36,29 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
 
+<!--
+I'm a B.Tech CSE (AI/ML) student with interests in **AI Engineering**, **Machine Learning**, and **MLOps**.  
+I'm currently exploring **Full-Stack Web Development** and enjoy building products end-to-end — from idea → prototype → deployment.
+
+**What I enjoy:**
+- Solving real-world problems with AI
+- Deploying and scaling ML models
+- Automating workflows & pipelines
+- Converting ideas into working products
+-->
+
 - 🎓 **B.Tech CSE (AI/ML)** student  
 - 🤖 Interested in **AI Engineering, Machine Learning & MLOps**  
 - 🌐 Exploring **Full-Stack Web Development**  
 - 🧠 Love building things from **idea → product**  
-- 🐱 Cat lover | 🏞️ Hiking | 🌙 Late-night coding  
+- 🏍️ Bike riding | 🏞️ Hiking | 🌙 Late-night coding  
 
 💬 *Ask me about*:  
 `AI / ML` · `MLOps` · `Python` · `Web Development`
 
 
 <!-- ===================== Languages and Tools ===================== -->
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">⚙️ Languages and Tools:</h2>
 <div style="display: flex; overflow-x: auto; padding: 10px 0;">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right:15px;" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="margin-right:15px;" /></a>
@@ -80,6 +91,9 @@
   </a>
 </div>
 
+<!--
+
+
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -91,13 +105,32 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhakaran-vijay&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabhakaran-vijay&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabhakaran-vijay&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prabhakaran-vijay&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prabhakaran-vijay&theme=tokyonight" />
+</p>
+
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabhakaranVijay&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-ten-psi-56.vercel.app/api?username=prabhakaran-vijay&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PrabhakaranVijay&theme=tokyonight)
+![Langs](https://github-readme-stats-ten-psi-56.vercel.app/api/top-langs/?username=prabhakaran-vijay&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabhakaranVijay&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=prabhakaran-vijay&theme=tokyonight)
+
+-->
 
 
 <!-- ===================== Footer ===================== -->
