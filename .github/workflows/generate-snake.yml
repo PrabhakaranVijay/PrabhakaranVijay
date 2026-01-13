@@ -13,6 +13,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
       - name: generate snake.svg
@@ -21,7 +22,15 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?color_snake=white&color_dots=#1A1A25,#3A1E6E,#6C1BB0,#A34CF4,#D1ACFF&radius=5
 
-      - name: push snake.svg to the output branch
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Merge typography wrapper
+        run: node scripts/merge-snake.js
+
+      - name: publish final svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
