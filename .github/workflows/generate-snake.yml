@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 
 on:
-  schedule: 
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -10,8 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Generate snake.svg
         uses: Platane/snk@v3
@@ -23,9 +22,9 @@ jobs:
             background=#0D1117
             snake=#5B21B6,#9333EA,#C084FC
             food=#C084FC
-          round: 0.35   # ← ROUNDED SQUARES (0=hard, 1=full circle)
+          round: 0.35  # ← ROUNDED SQUARES (0=hard, 1=full circle)
 
-      - name: Deploy to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
