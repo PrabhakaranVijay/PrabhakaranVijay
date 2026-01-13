@@ -89,6 +89,13 @@ I'm currently exploring **Full-Stack Web Development** and enjoy building produc
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white)
 
+
+<!-- ===================== Contribution and Snake-Animation ===================== -->
+<p align="center">
+  <img src="https://github.com/PrabhakaranVijay/PrabhakaranVijay/blob/output/snake.svg" />
+</p>
+
+
 <!--
 
 <h3 align="left">📊 GitHub Stats</h3>
