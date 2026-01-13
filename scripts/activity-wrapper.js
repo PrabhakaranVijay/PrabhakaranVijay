@@ -1,6 +1,6 @@
 import fs from "fs";
 
-const wrapper = fs.readFileSync("./assets/snake-wrapper.svg", "utf8");
+const wrapper = fs.readFileSync("./assets/antivity-overview-wrapper.svg", "utf8");
 const snake = fs.readFileSync("./dist/snake.svg", "utf8");
 
 // extract inner <svg> content only
