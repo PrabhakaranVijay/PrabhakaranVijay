@@ -16,7 +16,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
+      # ✅ THIS IS THE MISSING PIECE
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,14 +31,16 @@ jobs:
         with:
           node-version: 20
 
-      - name: List dist
-        run: ls -R dist
+      - name: Debug repo structure
+        run: |
+          ls
+          ls scripts
+          ls dist
 
-        
       - name: Merge typography wrapper
         run: node scripts/activity-wrapper.js
 
-      - name: publish final svg
+      - name: Publish final svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
