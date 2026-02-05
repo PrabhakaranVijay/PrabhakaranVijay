@@ -28,7 +28,7 @@ jobs:
           node-version: 20
 
       - name: List scripts
-        run: ls scripts
+        run: ls 
         
       - name: Merge typography wrapper
         run: node scripts/activity-wrapper.js
