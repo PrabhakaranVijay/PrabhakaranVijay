@@ -28,7 +28,7 @@ jobs:
           node-version: 20
 
       - name: Merge typography wrapper
-        run: node scripts/merge-snake.js
+        run: node scripts/activity-wrapper.js
 
       - name: publish final svg
         uses: crazy-max/ghaction-github-pages@v3.1.0
