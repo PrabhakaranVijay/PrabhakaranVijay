@@ -6,10 +6,19 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <h1 align="center">👋 Hi, I'm Prabhakaran Vijay</h1>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=25&pause=1000&color=C77DFF&center=true&vCenter=true&random=true&width=500&lines=B.Tech+%E2%80%A2+Computer+Science+Student;AI+Engineer+%E2%80%A2+MLOps;Full-Stack+Web+Developer;Founder+of+Life+in+Beta" alt="Typing SVG" />
 </a>
+</p> -->
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=25&pause=1200&color=C77DFF&center=true&vCenter=true&random=false&width=700&lines=Engineer.+Builder.+Founder.;Full-Stack+%26+AI+Engineer;MLOps+%E2%80%A2+LLMOps+%E2%80%A2+AI+Infrastructure;Exploring+LLMs+%26+RAG+Systems;Experimenting+With+AI+%26+Technology;Life+in+Beta"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
 <!-- ===================== Views & Links ===================== -->
